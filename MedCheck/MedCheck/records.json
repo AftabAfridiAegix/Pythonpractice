@@ -1,0 +1,65 @@
+[
+    {
+        "name": "ali",
+        "age": 32,
+        "symptoms": [
+            "fever"
+        ]
+    },
+    {
+        "name": "ali",
+        "age": 43,
+        "symptoms": [
+            "fever"
+        ]
+    },
+    {
+        "name": "Ali ",
+        "age": 32,
+        "symptoms": [
+            "fever",
+            "cough"
+        ]
+    },
+    {
+        "name": "Ali",
+        "age": 23,
+        "symptoms": [
+            "fever",
+            "cough"
+        ]
+    },
+    {
+        "name": "Ali",
+        "age": 34,
+        "symptoms": [
+            "fever",
+            "cough"
+        ]
+    },
+    {
+        "name": "Ali",
+        "age": 23,
+        "symptoms": [
+            "fever",
+            "flu"
+        ]
+    },
+    {
+        "name": "Ali",
+        "age": 45,
+        "symptoms": [
+            "fever",
+            "cold",
+            "pain"
+        ]
+    },
+    {
+        "name": "Zia",
+        "age": 34,
+        "symptoms": [
+            "diarracha",
+            "constepation"
+        ]
+    }
+]
